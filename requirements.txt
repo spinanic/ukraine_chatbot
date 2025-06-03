@@ -1,5 +1,5 @@
 streamlit
 pandas
+llama-index
 openai
-llama-index>=0.10.20
 

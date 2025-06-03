@@ -2,7 +2,8 @@
 __pycache__/
 .DS_Store
 *.pdf
-*.csv
+#*.csv
+!data/acled_ukraine_filtered.csv
 acled_data/
 venv/
 .env
